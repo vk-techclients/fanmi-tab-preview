@@ -22,6 +22,7 @@
       ["Name", p.name], ["Email", p.email], ["Phone", p.phone],
       ["Service", p.service], ["Event date", p.date],
       ["Guests", p.guests], ["City / ZIP", p.city],
+      ["Dietary considerations", p.dietary],
       ["Preferred contact", p.contact_pref], ["Heard about us", p.heard],
       ["Notes", p.message]
     ];
